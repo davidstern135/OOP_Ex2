@@ -31,7 +31,5 @@ public class Ex2 {
         totalTimeInSeconds = (double)total / 1000.0;
         System.out.println("function used : getNumOfLinesThreadPool\ntakes a total of: " + totalTimeInSeconds + " seconds");
 
-
-        Ex2_1.FileDeleter(s);
     }
 }
