@@ -33,7 +33,7 @@
 ### *Ex2:*
 
 
-*Ex2_1:*
+### *Ex2_1:*
 
 - _createTextFiles()_- 
 
@@ -44,26 +44,26 @@
 - _getNumOfLinesThreadPool()_-
 
 
-*Thread_Ex2:*
+### *Thread_Ex2:*
 
 -_run()_-
 
 
-*ThreadP_Ex2:*
+### *ThreadP_Ex2:*
 
 -_call()_-
 
 ## classes part2
 
 
-*Adapter:*
+### *Adapter:*
 
 -_Adapter()_-
 
 -_compareTo()_-
 
 
-*CustomExecutor:*
+### *CustomExecutor:*
 
 -_CustomExecutor()_-
 
@@ -75,7 +75,7 @@
 
 -_gracefullyTerminate()_-
 
-*Task:*
+### *Task:*
 
 -_createTask()_- 2 func
 
@@ -85,13 +85,13 @@
 
 -_compareTo()_-
 
-*TaskType:*
+### *TaskType:*
 
 
 ## tests
 
-*part1 test:*
+### *part1 test:*
 
 
-*part2 test:*
+### *part2 test:*
 
