@@ -30,7 +30,7 @@
 
 ## classes part1
 
-*Ex2:*
+### *Ex2:*
 
 
 *Ex2_1:*
@@ -56,7 +56,7 @@
 ## classes part2
 
 
-_*Adapter:*_
+*Adapter:*
 
 -_Adapter()_-
 
