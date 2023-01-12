@@ -32,60 +32,61 @@
 
 *Ex2:*
 
+
 *Ex2_1:*
+
+- _createTextFiles()_- 
+
+- _getNumOfLines()_- 
+
+- _getNumOfLinesThreads()_- 
+
+- _getNumOfLinesThreadPool()_-
+
 
 *Thread_Ex2:*
 
+-_run()_-
+
+
 *ThreadP_Ex2:*
 
-
-
-
-We will use the following functions in this class:
-
-- _register()_- registers a new member to a GroupAdmin and adds him to the arrMember list.
-
-- _unregister()_- unregister a specific member from the GroupAdmin and remove him from the arrMember list.
-
-- _append()_- Inserts the string into this character sequence.
-
-- _insert()_- Appends the specified string to the group.
-
-- _delete()_- Delete the characters in a substring of this sequence.
-
-- _undo()_- Cancels the last change that was made to the sequence and goes back to the previous sequence.
-
-- _notify()_- notifies all the members in the GroupAdmin with any change that happens.
+-_call()_-
 
 ## classes part2
 
 
 *Adapter*
 
+-_Adapter()_-
+
+-_compareTo()_-
+
+
 *CustomExecutor:*
+
+-_CustomExecutor()_-
+
+-_exe()_-
+
+-_submit()_- 2 func
+
+-_getCurrentMax()_-
+
+-_gracefullyTerminate()_-
 
 *Task:*
 
+-_createTask()_- 2 func
+
+-_get_priority()_-
+
+-_call()_-
+
+-_compareTo()_-
+
 *TaskType:*
 
-
-
-
-We will use the following functions in this class:
-
-- _register()_- registers a new member to a GroupAdmin and adds him to the arrMember list.
-
-- _unregister()_- unregister a specific member from the GroupAdmin and remove him from the arrMember list.
-
-- _append()_- Inserts the string into this character sequence.
-
-- _insert()_- Appends the specified string to the group.
-
-- _delete()_- Delete the characters in a substring of this sequence.
-
-- _undo()_- Cancels the last change that was made to the sequence and goes back to the previous sequence.
-
-- _notify()_- notifies all the members in the GroupAdmin with any change that happens.
 
 ## tests
 
