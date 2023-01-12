@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>Ex2.part1.Ex2</OriginalElement>
+  <nodes>
+    <node x="75.55175658651424" y="349.8298668778491">Ex2.part1.Ex2</node>
+    <node x="431.09091115486785" y="209.5293524644302">Ex2.part1.Ex2_1</node>
+    <node x="-66.33307918768963" y="95.38153038576814">Ex2.part1.Thread_ex2</node>
+    <node x="144.03935922234876" y="145.98115131541863">Ex2.part1.Ex2_1Test</node>
+    <node x="287.3319003897731" y="-14.348383801157155">Ex2.part1.ThreadP_ex2</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="Ex2.part1.Ex2_1" target="Ex2.part1.Thread_ex2" relationship="CREATE">
+      <point x="-128.5" y="14.451798850988439" />
+      <point x="8.666920812310366" y="306.48115131541863" />
+      <point x="0.0" y="61.5" />
+    </edge>
+    <edge source="Ex2.part1.Ex2_1" target="Ex2.part1.ThreadP_ex2" relationship="CREATE">
+      <point x="-121.0" y="-82.5" />
+      <point x="72.75901076509473" y="38.5" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic" zoom="1.5" showDependencies="true" x="321.0" y="216.0" />
+  <SelectedNodes>
+    <node>Ex2.part1.Ex2</node>
+  </SelectedNodes>
+  <Categories>
+    <Category>Constructors</Category>
+    <Category>Fields</Category>
+    <Category>Inner Classes</Category>
+    <Category>Methods</Category>
+    <Category>Properties</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+

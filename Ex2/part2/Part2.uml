@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>Ex2.part2.Task</OriginalElement>
+  <nodes>
+    <node x="369.16003849077555" y="-14.386619049750067">Ex2.part2.CustomExecutor</node>
+    <node x="106.18146381122756" y="150.5458724034706">Ex2.part2.Adapter</node>
+    <node x="-93.00750446849084" y="290.48734948984446">Ex2.part2.TaskType</node>
+    <node x="366.6114085451807" y="212.46819030638608">Ex2.part2.Task</node>
+    <node x="163.94953932946802" y="314.31454846707305">Ex2.part2.Tests</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="Ex2.part2.Tests" target="Ex2.part2.CustomExecutor" relationship="CREATE">
+      <point x="0.0" y="-38.5" />
+      <point x="232.44953932946802" y="260.04587240347064" />
+      <point x="88.68146381122756" y="260.04587240347064" />
+      <point x="88.68146381122756" y="68.61338095024993" />
+      <point x="-124.5" y="0.0" />
+    </edge>
+    <edge source="Ex2.part2.Task" target="Ex2.part2.TaskType" relationship="TO_ONE">
+      <point x="0.0" y="83.0" />
+      <point x="505.6114085451807" y="408.81454846707305" />
+      <point x="98.0" y="24.32719897722859" />
+    </edge>
+    <edge source="Ex2.part2.Adapter" target="Ex2.part2.Task" relationship="TO_ONE">
+      <point x="99.0" y="30.922317902915466" />
+      <point x="-139.0" y="-75.5" />
+    </edge>
+    <edge source="Ex2.part2.CustomExecutor" target="Ex2.part2.Adapter" relationship="CREATE">
+      <point x="0.0" y="83.0" />
+      <point x="493.66003849077555" y="189.0458724034706" />
+      <point x="99.0" y="0.0" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic" zoom="1.5" showDependencies="true" x="285.5" y="243.33333333333337" />
+  <SelectedNodes />
+  <Categories>
+    <Category>Constructors</Category>
+    <Category>Fields</Category>
+    <Category>Inner Classes</Category>
+    <Category>Methods</Category>
+    <Category>Properties</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
