@@ -56,7 +56,7 @@
 ## classes part2
 
 
-#*Adapter:*
+_*Adapter:*_
 
 -_Adapter()_-
 
