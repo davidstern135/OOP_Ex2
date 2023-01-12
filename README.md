@@ -46,44 +46,44 @@
 
 ### *Thread_Ex2:*
 
--_run()_-
+- _run()_ -
 
 
 ### *ThreadP_Ex2:*
 
--_call()_-
+- _call()_ -
 
 ## classes part2
 
 
 ### *Adapter:*
 
--_Adapter()_-
+- _Adapter()_ -
 
--_compareTo()_-
+- _compareTo()_ -
 
 
 ### *CustomExecutor:*
 
--_CustomExecutor()_-
+- _CustomExecutor()_ -
 
--_exe()_-
+- _exe()_ -
 
--_submit()_- 2 func
+- _submit()_ - 2 func
 
--_getCurrentMax()_-
+- _getCurrentMax()_ -
 
--_gracefullyTerminate()_-
+- _gracefullyTerminate()_ -
 
 ### *Task:*
 
--_createTask()_- 2 func
+- _createTask()_ - 2 func
 
--_get_priority()_-
+- _get_priority()_ -
 
--_call()_-
+- _call()_ -
 
--_compareTo()_-
+- _compareTo()_ -
 
 ### *TaskType:*
 
